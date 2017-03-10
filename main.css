@@ -1,0 +1,32 @@
+html {
+	box-sizing: border-box;
+}
+*, *:before, *;after {box-sizing: inherit;}
+
+
+.etsy {
+	font-family: sans-serif;
+	font-size: 35px;
+	justify-content: left;
+	margin-left: 20px;
+
+div .banner {
+	height: 233px;
+	width: 1424px;
+}
+
+}
+
+.container {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+footer {
+	color: #ad9e9e;
+	height: 150px;
+	width: 1424;
+	background-color: #808080;
+	line-height: 17.0;
+	font-size: 14px
+}
