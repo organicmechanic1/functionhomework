@@ -10,9 +10,12 @@ html {
 	justify-content: left;
 	margin-left: 20px;
 
+
 div .banner {
 	height: 233px;
 	width: 1424px;
+	overflow: hidden;
+
 }
 
 }
